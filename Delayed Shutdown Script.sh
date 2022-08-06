@@ -1,5 +1,7 @@
 #!/bin/bash
- 
+
+#delayed shutdown script
+
 # Define ignition gpio
 IGN_PIN=23
  
