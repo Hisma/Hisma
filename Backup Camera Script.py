@@ -1,5 +1,6 @@
 #!/usr/bin/python
- 
+
+#Backup Camera script for rpi with official pi camera
 import RPi.GPIO as GPIO
 import time
 import subprocess, os
