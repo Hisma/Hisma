@@ -1,6 +1,4 @@
-// By: Rutger de Graaf
-// 06-10-2018
-// modified 12/23/18 by Richard Meyer for mazda 6 AA SWC
+// 12/23/18 by Richard Meyer for mazda 6 AA SWC
 
 #include "Keyboard.h"
 
